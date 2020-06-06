@@ -1,0 +1,9 @@
+C:\Users\Caio\Documents\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\Caio\Documents\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.csprojAssemblyReference.cache
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\Caio\Documents\Cronometro\Cronometro\obj\Debug\Cronometro.pdb
