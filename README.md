@@ -1,6 +1,6 @@
 Timer
 ================================
-crônometro, contagem, alarme
+cronômetro, contagem, alarme
 --------------------------------
 ### Interface
 ![](review.png)
